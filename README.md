@@ -22,7 +22,7 @@ The main landing page providing a high-level summary of disruptions:
 - Geographical map of disruption hotspots
 - Interactive slicers: Airline, Region, and Date range
 
-![Dashboard 1](Dashboard Screenshots/1. Executive Overview.jpg)
+![Dashboard 1](Dashboard_screenshots/1.Executive_Overview.jpg)
 
 ---
 
@@ -32,7 +32,7 @@ Breaks down severity and regional impact:
 - **Middle East** dominates with **16.6K** disrupted flights, followed by South Asia (1.3K) and Europe (0.7K)
 - Drill-through enabled → links to **Disruption Patterns & Regional Analysis**
 
-![Dashboard 2](Dashboard Screenshots/2. Disruption Analysis.jpg)
+![Dashboard 2](Dashboard_screenshots/2.Disruption_Analysis.jpg)
 
 ---
 
@@ -43,7 +43,7 @@ Deep-dive into financial losses by airline:
 - Scatter plot: Disruptions vs Financial Loss (airline-wise)
 - **Malaysia Airlines** incurred the highest additional fuel cost at **$176K**
 
-![Dashboard 3](screenshots/airline_loss.png)
+![Dashboard 3](Dashboard_screenshots/3.Airline_Impact&Financial_Analysis.jpg)
 
 ---
 
@@ -55,7 +55,7 @@ Focuses on route changes and operational inefficiencies:
 - Route-level breakdown: Abu Dhabi, London, Sydney, Washington origins
 - Strong positive correlation between additional distance and fuel cost
 
-![Dashboard 4](screenshots/disruption_impact.png)
+![Dashboard 4](Dashboard_screenshots/4.Route&Efficiency_Analysis.jpg)
 
 ---
 
@@ -66,7 +66,7 @@ Accessible via drill-through from Dashboard 2:
 - Disruption types: **Security (30%)** is the leading cause, followed by Closure (26%)
 - Severity distribution: **High** (9 events), **Critical** and **Medium** (7 each)
 
-![Dashboard 5](screenshots/disruption_patterns.png)
+![Dashboard 5](Dashboard_screenshots/5.Region_Drillthrough.jpg)
 
 ---
 
