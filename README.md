@@ -22,7 +22,7 @@ The main landing page providing a high-level summary of disruptions:
 - Geographical map of disruption hotspots
 - Interactive slicers: Airline, Region, and Date range
 
-![Dashboard 1](screenshots/dashboard_overview.png)
+![Dashboard 1](Dashboard Screenshots/1. Executive Overview.jpg)
 
 ---
 
@@ -32,7 +32,7 @@ Breaks down severity and regional impact:
 - **Middle East** dominates with **16.6K** disrupted flights, followed by South Asia (1.3K) and Europe (0.7K)
 - Drill-through enabled → links to **Disruption Patterns & Regional Analysis**
 
-![Dashboard 2](screenshots/disruption_regional.png)
+![Dashboard 2](Dashboard Screenshots/2. Disruption Analysis.jpg)
 
 ---
 
